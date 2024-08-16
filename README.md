@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammed-inshad-7b65ba285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/inshhadd/?hl=en" target="_blank">
