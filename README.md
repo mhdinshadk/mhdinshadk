@@ -24,7 +24,7 @@
   Hi, I'm Muhammed Inshad K, esteemed Node.js Express React developer. It's a pleasure to connect with you.
   <br>
   <br>
-  🎓 I completed pluse two from Manjery Nellikutth,  Computer Science!
+  
   <br>
   💻 I love writing code and learn anythings about it
   <br>
